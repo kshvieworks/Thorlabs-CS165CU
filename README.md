@@ -26,4 +26,4 @@ Step 6. ```Copy``` the Directory Including Native DLL Files and ```Paste``` Them
 - Native DLL Files Location: ```Download Path```\Scientific_Camera_Interfaces_Windows-2.1\Scientific Camera Interfaces\SDK\Native Toolkit\dlls\Native_64_lib
 - The Package Directory:  ```Project Path```\python\venv\Lib\site-packages\thorlabs_tsi_sdk
 
-Step 7. 
+Step 7. Run AcquisitionProcessing
